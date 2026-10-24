@@ -1,5 +1,6 @@
-# surfacepro5-openbox
+# SurfacePro5 Debian 12 Post-Install configuration 
 a customized debian 12 configuration for SurfacePro 5 Openbox
+
 # Debian Openbox Configuration
 
 Building a custom graphical interface over a Debian 12 headless base is an excellent way to reclaim hardware overhead on a 8GB Microsoft Surface Pro.
